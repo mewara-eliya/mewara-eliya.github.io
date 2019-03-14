@@ -2,6 +2,8 @@
 <head>
 <meta charset="UTF-8">
 <title>TipsNote : GitHub Pages Sample</title>
+
+{"name":"portfolio","description":"my portfolio for github-pages","author":{"@type":"Person","name":"A"},"@type":"WebSite","image":null,"publisher":null,"headline":"Portfolio","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null}
 </head>
 
 <body>
