@@ -1,9 +1,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<script type="application/ld+json">
-{"name":"portfolio","description":"my portfolio for github-pages","author":{"@type":"Person","name":"A"},"@type":"WebSite","image":null,"publisher":null,"headline":"Portfolio","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null} == $0
-  </script>
 </head>
 
 <body>
