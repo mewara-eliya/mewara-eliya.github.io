@@ -1,4 +1,4 @@
-theme: jekyll-theme-limpid  # 自分が設定したいテーマ
+theme: jekyll-theme-limpid theme  # 自分が設定したいテーマ
 encding: utf-8
 plugins: 
   - jekyll-github-metadata
