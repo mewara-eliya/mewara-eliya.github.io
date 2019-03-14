@@ -7,7 +7,7 @@
 <body>
 <main>
   <h1>GitHub Pages のサンプルです</h1>
-  <a href="http://mewara.github.io"><button>TipsNote に戻る</button></a>
+  <a href="http://mewara-eliya.github.io"><button>TipsNote に戻る</button></a>
 </main>
 
 <script>
