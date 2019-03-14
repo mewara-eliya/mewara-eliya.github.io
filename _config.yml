@@ -1,4 +1,4 @@
-theme: jekyll-theme-Paper  # 自分が設定したいテーマ
+theme: jekyll-theme-architect  # 自分が設定したいテーマ
 encding: utf-8
 plugins: 
   - jekyll-github-metadata
