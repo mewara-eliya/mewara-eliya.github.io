@@ -22,7 +22,7 @@ console.log('GitHub Pages Sample');
 </html>
 
 body{
-color:#4a4a4a
+background-color: #4a4a4a;
 }
 
 ## Welcome to GitHub Pages
