@@ -2,7 +2,6 @@
 <head>
 <meta charset="UTF-8">
   <title>Mewara` page</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/marx/2.0.4/marx.css">
   <style type="text/css">
     body {
     background-color: #f8f1e3;
