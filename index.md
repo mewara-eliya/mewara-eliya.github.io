@@ -5,7 +5,7 @@
   <title>Mewara` page</title>
   <style type="text/css">
     body {
-    background-color: #FFFFFF;
+    background-color: #4a4a4a;
     }
     </style>
 </head>
