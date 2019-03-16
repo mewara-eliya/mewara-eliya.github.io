@@ -21,6 +21,10 @@ console.log('GitHub Pages Sample');
 </body>
 </html>
 
+body{
+color:#4a4a4a
+}
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mewara-eliya/mewara-eliya.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
