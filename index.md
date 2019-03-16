@@ -3,6 +3,11 @@
 <head>
 <meta charset="UTF-8">
   <title>Mewara` page</title>
+  <style type="text/css">
+    body {
+    background-color: #4a4a4a;
+    }
+    </stile>
 </head>
 
 <body>
@@ -22,9 +27,7 @@ console.log('GitHub Pages Sample');
 </body>
 </html>
 
-body {
-background-color: #4a4a4a;
-}
+
 
 ## Welcome to GitHub Pages
 
